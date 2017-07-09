@@ -1,4 +1,4 @@
-Files and scripts to reproduce data analysis for "Evaluation of AMSTAR versus ROBIS tool for quality assessment of systematic reviews of treatments published on psoriasis project (PROSPERO 2016: CRD42016053181)". Results have been included as text, tables or figures on the original article:
+Dataset and script to reproduce data analysis for "Evaluation of AMSTAR versus ROBIS tool for quality assessment of systematic reviews of treatments published on psoriasis project (PROSPERO 2016: CRD42016053181)". Results have been included as text, tables or figures on the original article:
 
 "Abstract analysis method facilitates filtering low methodological quality and high bias risk systematic reviews concerning psoriasis interventions".
 
